@@ -15,7 +15,7 @@ This project presents a visually rich and interactive dashboard built in **Table
 ---
 
 ## Dashboard Preview
-- <a href-"https://www.dropbox.com/scl/fo/2pzkq8xtzrqvw4x1e1eic/AI9ZU-sfKfPV9vWuGrtiMKg?rlkey=a7yj78t88mvrl5y1ku4nykjy1&st=ryfj8iud&dl=0">Dashboard</a>
+- <a href="https://www.dropbox.com/scl/fo/2pzkq8xtzrqvw4x1e1eic/AI9ZU-sfKfPV9vWuGrtiMKg?rlkey=a7yj78t88mvrl5y1ku4nykjy1&st=ryfj8iud&dl=0">Dashboard</a>
 
 ---
 
